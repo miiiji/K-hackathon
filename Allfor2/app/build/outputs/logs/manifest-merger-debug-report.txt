@@ -4,11 +4,13 @@ ADDED from C:\Users\qpdjg\AndroidStudioProjects\All_for_final\K-hackathon_4TO9_A
 INJECTED from C:\Users\qpdjg\AndroidStudioProjects\All_for_final\K-hackathon_4TO9_ALL_FOR\Allfor2\app\src\main\AndroidManifest.xml:2:1-22:12
 INJECTED from C:\Users\qpdjg\AndroidStudioProjects\All_for_final\K-hackathon_4TO9_ALL_FOR\Allfor2\app\src\main\AndroidManifest.xml:2:1-22:12
 INJECTED from C:\Users\qpdjg\AndroidStudioProjects\All_for_final\K-hackathon_4TO9_ALL_FOR\Allfor2\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\1ca432dce0848d3ad234bc4dd3d732fa\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e20fd2b2de7288ac628fc89a633c247b\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\1b2f6ddc750b42576d5ec171c5771915\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\727a9b06fa43eb2e56f15ec9841ad100\AndroidManifest.xml:17:1-38:12
 MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\b3fa6823c00853cfb82c58c1314e988d\AndroidManifest.xml:17:1-39:12
-MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\1ca432dce0848d3ad234bc4dd3d732fa\AndroidManifest.xml:17:1-23:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e20fd2b2de7288ac628fc89a633c247b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\793626c3ec83ee9748324455e463bc15\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\a23facb5c717e12c698ee40dfd3d3e42\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\91b0b59429f2657987c2786f519a162c\AndroidManifest.xml:17:1-34:12
 MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\22eb036c073b1bce5bad5bef4affd504\AndroidManifest.xml:17:1-55:12
 MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\d67b484ab2306416011e684a896275bb\AndroidManifest.xml:17:1-22:12
@@ -25,8 +27,6 @@ MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\qpdjg\.
 MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\af37ef09a1b065fbebe251176c0f6ffd\AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\c08256931b7ebe4c5d6784a196537d4c\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\2a851f4f42f9777095618bc16a989a2c\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\793626c3ec83ee9748324455e463bc15\AndroidManifest.xml:17:1-23:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\a23facb5c717e12c698ee40dfd3d3e42\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\6c057b6b291f15653a9e21bc327ec6bd\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\15d5444d7ae3263524a4c4df5442cca5\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\3e261205978e09a06710004dc9aae751\AndroidManifest.xml:17:1-23:12
@@ -46,8 +46,8 @@ MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\q
 MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\63d168c3b0882ed543736e9f63e6719d\AndroidManifest.xml:17:1-23:12
 MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\38538cf43768d68c64fda3359839399d\AndroidManifest.xml:17:1-23:12
 MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\6a4c763465e7ca751b1985b8470039d5\AndroidManifest.xml:17:1-23:12
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\12bd656d31488905f3832342c80937a0\AndroidManifest.xml:17:1-24:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\7dc43843a0d8cb5119f7caec21f517b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\12bd656d31488905f3832342c80937a0\AndroidManifest.xml:17:1-24:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dc9723981c1498bad1af5627b4ce4c5e\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\abc8f0466c7f8db77d6f14db0ddef700\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fcaaa1d2fcddd56f97e95e8fad99306e\AndroidManifest.xml:17:1-22:12
@@ -70,14 +70,14 @@ INJECTED from C:\Users\qpdjg\AndroidStudioProjects\All_for_final\K-hackathon_4TO
 		ADDED from C:\Users\qpdjg\AndroidStudioProjects\All_for_final\K-hackathon_4TO9_ALL_FOR\Allfor2\app\src\main\AndroidManifest.xml:2:11-69
 application
 ADDED from C:\Users\qpdjg\AndroidStudioProjects\All_for_final\K-hackathon_4TO9_ALL_FOR\Allfor2\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e20fd2b2de7288ac628fc89a633c247b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e20fd2b2de7288ac628fc89a633c247b\AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\1b2f6ddc750b42576d5ec171c5771915\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\1b2f6ddc750b42576d5ec171c5771915\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\727a9b06fa43eb2e56f15ec9841ad100\AndroidManifest.xml:22:5-36:19
 MERGED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\727a9b06fa43eb2e56f15ec9841ad100\AndroidManifest.xml:22:5-36:19
 MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\b3fa6823c00853cfb82c58c1314e988d\AndroidManifest.xml:22:5-37:19
 MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\b3fa6823c00853cfb82c58c1314e988d\AndroidManifest.xml:22:5-37:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e20fd2b2de7288ac628fc89a633c247b\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e20fd2b2de7288ac628fc89a633c247b\AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\91b0b59429f2657987c2786f519a162c\AndroidManifest.xml:26:5-32:19
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\91b0b59429f2657987c2786f519a162c\AndroidManifest.xml:26:5-32:19
 MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\22eb036c073b1bce5bad5bef4affd504\AndroidManifest.xml:28:5-53:19
@@ -146,16 +146,20 @@ uses-sdk
 INJECTED from C:\Users\qpdjg\AndroidStudioProjects\All_for_final\K-hackathon_4TO9_ALL_FOR\Allfor2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\qpdjg\AndroidStudioProjects\All_for_final\K-hackathon_4TO9_ALL_FOR\Allfor2\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\qpdjg\AndroidStudioProjects\All_for_final\K-hackathon_4TO9_ALL_FOR\Allfor2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\1ca432dce0848d3ad234bc4dd3d732fa\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\1ca432dce0848d3ad234bc4dd3d732fa\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e20fd2b2de7288ac628fc89a633c247b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e20fd2b2de7288ac628fc89a633c247b\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\1b2f6ddc750b42576d5ec171c5771915\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\1b2f6ddc750b42576d5ec171c5771915\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\727a9b06fa43eb2e56f15ec9841ad100\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\727a9b06fa43eb2e56f15ec9841ad100\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\b3fa6823c00853cfb82c58c1314e988d\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.1.aar\b3fa6823c00853cfb82c58c1314e988d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\1ca432dce0848d3ad234bc4dd3d732fa\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\1ca432dce0848d3ad234bc4dd3d732fa\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e20fd2b2de7288ac628fc89a633c247b\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\e20fd2b2de7288ac628fc89a633c247b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\793626c3ec83ee9748324455e463bc15\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\793626c3ec83ee9748324455e463bc15\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\a23facb5c717e12c698ee40dfd3d3e42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\a23facb5c717e12c698ee40dfd3d3e42\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\91b0b59429f2657987c2786f519a162c\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\91b0b59429f2657987c2786f519a162c\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\22eb036c073b1bce5bad5bef4affd504\AndroidManifest.xml:20:5-44
@@ -188,10 +192,6 @@ MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\User
 MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\c08256931b7ebe4c5d6784a196537d4c\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\2a851f4f42f9777095618bc16a989a2c\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\2a851f4f42f9777095618bc16a989a2c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\793626c3ec83ee9748324455e463bc15\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\793626c3ec83ee9748324455e463bc15\AndroidManifest.xml:21:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\a23facb5c717e12c698ee40dfd3d3e42\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\a23facb5c717e12c698ee40dfd3d3e42\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\6c057b6b291f15653a9e21bc327ec6bd\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\6c057b6b291f15653a9e21bc327ec6bd\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\15d5444d7ae3263524a4c4df5442cca5\AndroidManifest.xml:21:5-23:63
@@ -230,10 +230,10 @@ MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\qpdjg\.gra
 MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\38538cf43768d68c64fda3359839399d\AndroidManifest.xml:21:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\6a4c763465e7ca751b1985b8470039d5\AndroidManifest.xml:21:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\6a4c763465e7ca751b1985b8470039d5\AndroidManifest.xml:21:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\12bd656d31488905f3832342c80937a0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\12bd656d31488905f3832342c80937a0\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\7dc43843a0d8cb5119f7caec21f517b1\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\7dc43843a0d8cb5119f7caec21f517b1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\12bd656d31488905f3832342c80937a0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\12bd656d31488905f3832342c80937a0\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dc9723981c1498bad1af5627b4ce4c5e\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dc9723981c1498bad1af5627b4ce4c5e\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\qpdjg\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\abc8f0466c7f8db77d6f14db0ddef700\AndroidManifest.xml:20:5-44
