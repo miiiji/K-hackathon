@@ -1,7 +1,9 @@
-package allfor.project.a4to9.all_for;
+package allfor.project.a4to9.all_for.Activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import allfor.project.a4to9.all_for.R;
 
 public class MainActivity extends AppCompatActivity {
 
